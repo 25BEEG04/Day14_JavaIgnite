@@ -1,4 +1,4 @@
-package java_internship_day14;
+package JavaIgniteDay14;
 import java.util.Scanner;
 import java.util.*;
 public class Queue_Token_Management_System {
